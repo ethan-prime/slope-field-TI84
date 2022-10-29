@@ -6,10 +6,10 @@ You must have the TI-Connect CE software installed on your computer in order to 
 
 Examples:
 dy/dx = x/y, length of lines = 0.75, from (-3, -3) to (3, 3)
-(assets/xy.png)
+![alt text](assets/xy.png)
 
 dy/dx = 2xy, length of lines = 0.60, from (-2, -3) to (3, 2)
-(assets/2xy.png)
+![alt text](assets/2xy.png)
 
 dy/dx = sin(x)cos(y), length of lines = 1, from (-2, -2) to (2, 2)
-(assets/sinxcosy.png)
+![alt text](assets/sinxcosy.png)
