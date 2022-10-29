@@ -10,7 +10,7 @@
 
 ![alt text](assets/xy.png)
 
-## $\frac{dy}{dx}=2xy$, Length of lines = 0.60, From (-2, -3) to (3, 2)  
+## $\frac{dy}{dx}=2y$, Length of lines = 0.60, From (-2, -3) to (3, 2)  
 
 ![alt text](assets/2xy.png)
 
